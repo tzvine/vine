@@ -1,1 +1,1 @@
-FROM registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.8.1
+FROM quay.io/prometheus-operator/prometheus-operator:v0.63.0
